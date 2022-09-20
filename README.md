@@ -9,7 +9,7 @@
  >- [License](#license)
  >- [Questions](#questions)
  
- ![Screenrecording of README -Generator]()
+ ![Screenrecording of README-Generator](https://user-images.githubusercontent.com/107710694/191159118-eff7bbda-8322-46a0-96b2-9a6728ee3c7a.mp4)
 
  ## Description
  >The following code is for a README file generator. Once an npm install is run followed by node index.js questions from the javascript file will be prompted in your terminal. The answers to the prompted questions will be writtten into a new README file that will be created and stored within your files.
